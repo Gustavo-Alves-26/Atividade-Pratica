@@ -1,7 +1,7 @@
 # Atividade-Pratica
 **NOSSA PRIMEIRA WIKI NO GITHUB**
 
-**Aluno: Gustavo Alves Marcelino dos Reis (RGM: 11261004882) (ENGENHARIA DE SOFTWARE)**
+**Aluno: Gustavo Alves Marcelino dos Reis (RGM: 11261104882) (ENGENHARIA DE SOFTWARE)**
 
 **Aluno: Vitor Otávio Batista de Sousa (RGM: 11261101526) (ENGENHARIA DE SOFTAWARE)**
 ## 1° ls
